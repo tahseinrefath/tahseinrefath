@@ -131,31 +131,9 @@ Key Features:
 
 ---
 
-■ Project 02 — AI-Powered Forex Market Analysis & Paper Trading Platform
 
-A web-based Forex market analysis and paper trading platform designed to analyze currency-market data and simulate trading without using real money.
 
-The platform provides market data, technical analysis, trading signals, backtesting, portfolio tracking, and paper trading features.
-
-Tech Stack:
-
-"Python" "Flask" "React.js" "MySQL" "SQLAlchemy" "JavaScript"
-
-Key Features:
-
-- Forex market data
-- Currency pair analysis
-- Market charts
-- Trading signals
-- AI-assisted market insights
-- Backtesting
-- Paper trading
-- Portfolio tracking
-- Trading dashboard
-
----
-
-■ Project 03 — Data Analytics & Visualization Projects
+■ Project 02 — Data Analytics & Visualization Projects
 
 A collection of data analytics projects focused on transforming raw data into meaningful insights through data cleaning, analysis, visualization, and reporting.
 
