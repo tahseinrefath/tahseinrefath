@@ -18,15 +18,11 @@
 
 ### ⚡ BUILD • LEARN • ANALYZE • INNOVATE
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
-
 </div>
 
 ---
 
 # 👨‍💻 About Me
-
-<img align="right" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 ### 👋 Hello, I'm **Tahsein Refath M**
 
@@ -53,8 +49,6 @@
 🚀 Building practical projects that solve real-world problems
 
 💼 **Available to join immediately**
-
-<br clear="right"/>
 
 ---
 
@@ -141,20 +135,26 @@ My goal is to start my professional career in a role where I can apply my knowle
 
 ---
 
-# 📊 Skill Graph
+# 📈 Skill Trend Graph
 
-Python             ████████████████████░░  90%
-SQL                ██████████████████░░░░  85%
-HTML / CSS         ██████████████████░░░░  85%
-MS Excel           █████████████████░░░░░  80%
-Flask              ████████████████░░░░░░  75%
-Power BI           ████████████████░░░░░░  75%
-Data Analysis      ████████████████░░░░░░  75%
-JavaScript         ███████████████░░░░░░░  70%
-R Programming      ███████████████░░░░░░░  70%
-Generative AI      ███████████████░░░░░░░  70%
+<div align="center">
 
+| Skill | Level | Progress |
+|---|---:|---|
+| 🐍 Python | 90% | ██████████████████░░ |
+| 🗄️ SQL | 85% | █████████████████░░░ |
+| 🌐 HTML / CSS | 85% | █████████████████░░░ |
+| 📊 MS Excel | 80% | ████████████████░░░░ |
+| ⚙️ Flask | 75% | ███████████████░░░░░ |
+| 📈 Power BI | 75% | ███████████████░░░░░ |
+| 📊 Data Analysis | 75% | ███████████████░░░░░ |
+| 🟨 JavaScript | 70% | ██████████████░░░░░░ |
+| 📘 R Programming | 70% | ██████████████░░░░░░ |
+| 🤖 Generative AI | 70% | ██████████████░░░░░░ |
 
+</div>
+
+---
 
 # 🚀 Featured Projects
 
@@ -302,41 +302,17 @@ Co-authored two research papers related to machine learning applications, gainin
 
 <div align="center">
 
-```text
-╔══════════════════════════════════════════════════════════╗
-║                    CURRENT FOCUS                         ║
-╠══════════════════════════════════════════════════════════╣
-║                                                          ║
-║ 🐍  Advanced Python Development                          ║
-║ 📊  Data Analytics & Visualization                       ║
-║ 🗄️  SQL & Database Development                           ║
-║ 📈  Power BI & Excel Analytics                           ║
-║ 🤖  Generative AI                                       ║
-║ 🧠  Agentic AI                                          ║
-║ ✨  Prompt Engineering                                  ║
-║ 🌐  Full-Stack Web Development                          ║
-║ 🚀  Real-World Projects                                  ║
-║                                                          ║
-╚══════════════════════════════════════════════════════════╝
-```
-
-</div>
-
----
-
-# 📊 GitHub Highlights
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/💻-Software%20Development-6D28D9?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/🐍-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/📊-Data%20Analytics-A855F7?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/🤖-Artificial%20Intelligence-7C3AED?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/💼-Open%20To%20Work-16A34A?style=for-the-badge"/>
+| 🚀 CURRENT FOCUS | 📌 STATUS |
+|---|---|
+| 🐍 Advanced Python Development | 🔥 Learning |
+| 📊 Data Analytics & Visualization | 🔥 Improving |
+| 🗄️ SQL & Database Development | 🔥 Improving |
+| 📈 Power BI & Excel Analytics | 🚀 Building |
+| 🤖 Generative AI | 🚀 Exploring |
+| 🧠 Agentic AI | 🚀 Exploring |
+| ✨ Prompt Engineering | 📚 Learning |
+| 🌐 Full-Stack Web Development | 💻 Building |
+| 🚀 Real-World Projects | ⚡ Active |
 
 </div>
 
@@ -462,13 +438,9 @@ Co-authored two research papers related to machine learning applications, gainin
 <div align="center">
 
 <img src="https://img.shields.io/badge/Software%20Developer-0072FF?style=for-the-badge"/>
-
 <img src="https://img.shields.io/badge/Python%20Developer-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/Data%20Analyst-00C6FF?style=for-the-badge"/>
-
 <img src="https://img.shields.io/badge/Data%20Analytics-7F00FF?style=for-the-badge"/>
-
 <img src="https://img.shields.io/badge/Frontend%20Developer-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 
 <br><br>
@@ -500,13 +472,9 @@ Co-authored two research papers related to machine learning applications, gainin
 <div align="center">
 
 <img src="https://img.shields.io/badge/🎓%20Graduate-2026-blue?style=for-the-badge"/>
-
 <img src="https://img.shields.io/badge/🐍%20Python-Developer-3776AB?style=for-the-badge"/>
-
 <img src="https://img.shields.io/badge/📊%20Data-Analytics-00C6FF?style=for-the-badge"/>
-
 <img src="https://img.shields.io/badge/🤖%20AI-Learner-7F00FF?style=for-the-badge"/>
-
 <img src="https://img.shields.io/badge/🚀%20Open-To-Work-00C853?style=for-the-badge"/>
 
 </div>
