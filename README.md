@@ -46,52 +46,24 @@
 
 # 👨‍💻 ABOUT ME
 
-<img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
 ### 👋 Hello, I'm **Tahsein Refath M**
 
-🎓 **B.Sc. Computer Science specialized in Data Science**
+I am a **B.Sc. Computer Science graduate specialized in Data Science**, graduated from **Nehru Arts and Science College, Coimbatore in 2026**.
 
-🏫 **Nehru Arts and Science College, Coimbatore**
-
-🎓 **Graduated in 2026**
-
-💻 Interested in **Software Development**
-
-🐍 Passionate about **Python Development**
-
-📊 Interested in **Data Analytics & Data Visualization**
-
-🌐 Building **Full-Stack Web Applications**
-
-🗄️ Working with **SQL & MySQL Databases**
-
-🤖 Exploring **Artificial Intelligence & Generative AI**
-
-🧠 Improving **Problem Solving, Debugging & Data Structures**
-
-📈 Interested in transforming data into meaningful insights
-
-🚀 Building practical projects that solve real-world problems
-
-💼 **Available to join immediately**
-
-<br clear="right"/>
-
----
-
-# 🎯 CAREER OBJECTIVE
-
-I am an entry-level Computer Science graduate specialized in Data Science, interested in building practical software applications and data-driven solutions.
-
-My goal is to begin my professional career in a role where I can apply my knowledge of **Python, SQL, Flask, Data Analytics, Web Development and AI**, while continuously learning new technologies and contributing to real-world projects.
-
-### 💼 Target Roles
+I am interested in building practical software applications, working with data, developing web applications and exploring Artificial Intelligence.
 
 ```text
-💻 Software Developer
-🐍 Python Developer
-📊 Data Analyst
-📈 Data Analytics
-🌐 Frontend Developer
-🤖 AI / Data Science Related Roles
+🎓 B.Sc. Computer Science — Data Science
+🏫 Nehru Arts and Science College, Coimbatore
+📅 Graduated in 2026
+
+💻 Software Development
+🐍 Python Development
+📊 Data Analytics & Data Visualization
+🌐 Full-Stack Web Development
+🗄️ SQL & MySQL
+🤖 Artificial Intelligence & Generative AI
+🧠 Problem Solving & Debugging
+🚀 Real-World Project Development
+
+💼 Available to Join Immediately
