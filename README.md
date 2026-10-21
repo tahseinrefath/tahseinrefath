@@ -14,14 +14,6 @@
 
 ---
 
-<div align="center">
-
-### ⚡ BUILD • LEARN • ANALYZE • INNOVATE
-
-</div>
-
----
-
 # 👨‍💻 About Me
 
 ### 👋 Hello, I'm **Tahsein Refath M**
@@ -56,16 +48,7 @@
 
 I am an entry-level Computer Science graduate specialized in Data Science, interested in building practical software applications and data-driven solutions.
 
-My goal is to start my professional career in a role where I can apply my knowledge of **Python, SQL, Flask, Data Analytics, Web Development and AI** while continuously learning and contributing to real-world projects.
-
-### 💼 Target Roles
-
-- Software Developer
-- Python Developer
-- Data Analyst
-- Data Analytics
-- Frontend Developer
-- AI / Data Roles
+My goal is to start my professional career as a **Software Developer, Python Developer, Data Analyst or Frontend Developer** and contribute to real-world projects.
 
 ---
 
@@ -93,39 +76,42 @@ My goal is to start my professional career in a role where I can apply my knowle
 
 ---
 
-# 🛠️ Tech Stack
+# 🛠️ Languages & Technologies
 
 <div align="center">
 
-### 👨‍💻 Programming
+### 💻 Programming Languages
 
 <img src="https://skillicons.dev/icons?i=python,r,javascript"/>
 
-### 🌐 Frontend
+<br><br>
 
-<img src="https://skillicons.dev/icons?i=html,css,javascript"/>
+### 🌐 Web Development
 
-### ⚙️ Backend
+<img src="https://skillicons.dev/icons?i=html,css,flask"/>
 
-<img src="https://skillicons.dev/icons?i=python,flask"/>
+<br><br>
 
-### 🗄️ Database
+### 🗄️ Database & Data
 
 <img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
 
-### 🔧 Tools
+<br><br>
+
+### 🔧 Development Tools
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode"/>
 
-<br>
+<br><br>
 
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
 
-<br>
+<br><br>
 
 <img src="https://img.shields.io/badge/Generative%20AI-7F00FF?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Agentic%20AI-0072FF?style=for-the-badge"/>
@@ -135,7 +121,234 @@ My goal is to start my professional career in a role where I can apply my knowle
 
 ---
 
-# 📈 Skill Trend Graph
+# 🚀 Featured Projects
+
+## 🍽️ 01 — Nehru Canteen Management System
+
+A **full-stack college canteen web application** developed as my final-year project to make the college canteen ordering process faster, easier and more organized.
+
+### 🎯 Project Objective
+
+The system helps students order food without waiting in a long queue. Students can browse the menu, add food items to the cart, place an order, make payment and receive a **token number**.
+
+The token can then be shown at the food counter when the order is ready.
+
+### ✨ Key Features
+
+- 🍔 Breakfast, Lunch and Snacks categories
+- 🖼️ Food images and item details
+- 🛒 Add to Cart
+- 💳 Order and payment workflow
+- 🎟️ Automatic token generation
+- 👨‍🍳 Food preparation status
+- 📊 Admin dashboard
+- 🧾 Order management
+- 🔔 Order status / notification
+- ⏱️ Food preparation time
+- 🧑‍💼 Canteen admin management
+- 📱 PWA-friendly design
+- ⚡ Reduces waiting time and queue at the bill counter
+- 🥡 Takeaway-based ordering system
+
+### 🔄 System Flow
+
+```text
+Student Login
+      ↓
+Browse Food Menu
+      ↓
+Select Food
+      ↓
+Add To Cart
+      ↓
+Place Order
+      ↓
+Payment
+      ↓
+Token Generated
+      ↓
+Admin Receives Order
+      ↓
+Food Preparation
+      ↓
+Order Ready
+      ↓
+Student Shows Token
+      ↓
+Food Counter
+      ↓
+Order Delivered
+```
+
+### 👨‍🎓 Student Module
+
+- Student registration
+- Student login
+- Browse food categories
+- View food details
+- Add items to cart
+- Place orders
+- Payment workflow
+- Token generation
+- Track order status
+
+### 👨‍💼 Admin Module
+
+- Admin login
+- Admin dashboard
+- Add / manage food items
+- View incoming orders
+- Update food preparation status
+- Manage order tokens
+- Track completed orders
+- Manage canteen operations
+
+### 🛠️ Technologies Used
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,javascript,python,flask,mysql"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge"/>
+
+</div>
+
+**Frontend:** HTML, CSS, JavaScript
+
+**Backend:** Python, Flask
+
+**Database:** MySQL
+
+**ORM:** SQLAlchemy
+
+**Development Tools:** VS Code, Git, GitHub
+
+---
+
+# 🔎 02 — Lost & Found Management System
+
+A **web-based Lost & Found Management System** designed to help students and users report lost items, register found items and search for matching records.
+
+### 🎯 Project Objective
+
+The system provides a centralized platform where users can report an item they have lost or found instead of depending on manual announcements.
+
+It makes it easier to **search, manage and connect lost and found item information**.
+
+### ✨ Key Features
+
+- 📝 Report Lost Items
+- 📦 Report Found Items
+- 🔎 Search Lost & Found Records
+- 🏷️ Item category management
+- 📅 Date and location information
+- 🖼️ Item details and descriptions
+- 👤 User information
+- 🔄 Match lost and found records
+- 📊 Manage reported items
+- 📱 Simple and responsive interface
+- 🔐 User-based system
+
+### 🔄 System Flow
+
+```text
+User Registration
+      ↓
+Login
+      ↓
+Choose Lost / Found
+      ↓
+Enter Item Details
+      ↓
+Submit Report
+      ↓
+Store In Database
+      ↓
+Search / Match Item
+      ↓
+View Matching Information
+      ↓
+Contact / Verify Owner
+      ↓
+Item Recovered
+```
+
+### 👤 User Module
+
+- User registration
+- User login
+- Report lost item
+- Report found item
+- Search items
+- View item information
+- Check matching records
+- Manage submitted reports
+
+### 🛠️ Technologies Used
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,javascript,python,flask,mysql"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST%20API-009688?style=for-the-badge"/>
+
+</div>
+
+**Frontend:** HTML, CSS, JavaScript
+
+**Backend:** Python, Flask
+
+**Database:** MySQL
+
+**API:** REST API
+
+**Development Tools:** VS Code, Git, GitHub
+
+---
+
+# 💻 Languages I Can Use
+
+<div align="center">
+
+| Language / Technology | Logo | Usage |
+|---|---|---|
+| 🐍 Python | ![Python](https://skillicons.dev/icons?i=python) | Backend, Data Analysis, AI |
+| 📘 R Programming | ![R](https://skillicons.dev/icons?i=r) | Data Analysis, Statistics |
+| 🟨 JavaScript | ![JavaScript](https://skillicons.dev/icons?i=javascript) | Web Development |
+| 🌐 HTML5 | ![HTML](https://skillicons.dev/icons?i=html) | Web Structure |
+| 🎨 CSS3 | ![CSS](https://skillicons.dev/icons?i=css) | Web Styling |
+| 🗄️ SQL | ![MySQL](https://skillicons.dev/icons?i=mysql) | Database Queries |
+| 🐬 MySQL | ![MySQL](https://skillicons.dev/icons?i=mysql) | Database Management |
+
+</div>
+
+---
+
+# 📊 Data & Analytics Tools
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Python-Data%20Analysis-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-Data%20Manipulation-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-Data%20Processing-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/R-Data%20Analysis-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power%20BI-Analytics-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Excel-Analytics-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tableau-Visualization-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-Visualization-11557C?style=for-the-badge&logo=python&logoColor=white"/>
+
+</div>
+
+---
+
+# 📈 Skill Graph
 
 <div align="center">
 
@@ -153,86 +366,6 @@ My goal is to start my professional career in a role where I can apply my knowle
 | 🤖 Generative AI | 70% | ██████████████░░░░░░ |
 
 </div>
-
----
-
-# 🚀 Featured Projects
-
-## 🍽️ 01 — Nehru Canteen Management System
-
-Full-stack college canteen web application designed to simplify food ordering and reduce queues.
-
-### Features
-
-- 🍔 Breakfast, Lunch and Snacks
-- 🛒 Add to Cart
-- 🎟️ Token Generation
-- 💳 Ordering / Payment Workflow
-- 👨‍🍳 Food Preparation Status
-- 📊 Admin Dashboard
-- 🔔 Order Notifications
-- ⚡ Queue Reduction
-- 📱 PWA-Friendly Experience
-
-**Technologies:** HTML, CSS, JavaScript, Python, Flask, MySQL, SQLAlchemy
-
----
-
-## 🔎 02 — Lost & Found Management System
-
-Digital platform for reporting, searching and managing lost and found items.
-
-**Technologies:** HTML, CSS, JavaScript, Python, Flask, MySQL
-
----
-
-## 🤟 03 — Sign Language Detection & Translation
-
-AI-based computer vision project that detects sign gestures and translates them into text.
-
-**Technologies:** Python, Machine Learning, Computer Vision
-
----
-
-## 🛡️ 04 — AI-Powered Malicious IP Detection
-
-Cybersecurity project focused on identifying suspicious and malicious IP addresses.
-
-**Technologies:** Python, Machine Learning, Data Analysis, Cybersecurity
-
----
-
-## 🤖 05 — Interactive Cybersecurity Chatbot Assistant
-
-AI-powered conversational assistant for cybersecurity guidance and awareness.
-
-**Technologies:** Python, AI, Generative AI
-
----
-
-## 📊 06 — Data Analytics & Visualization Projects
-
-Projects involving data collection, cleaning, manipulation, analysis and visualization.
-
-**Technologies:** Python, Pandas, NumPy, Matplotlib, R, Power BI, Excel, Tableau
-
----
-
-## 🧮 07 — Bayesian Approach to Medical Diagnosis
-
-Academic project applying Bayesian Theory to probabilistic medical diagnosis and decision making.
-
----
-
-## 📈 08 — Risk Assessment Using Bayesian Theory
-
-Academic study applying Bayesian reasoning to risk assessment and decision making under uncertainty.
-
----
-
-## 🏋️ 09 — Fitness App Hackathon Project
-
-Fitness-focused application concept for activity tracking, goals and progress monitoring.
 
 ---
 
@@ -380,9 +513,9 @@ Co-authored two research papers related to machine learning applications, gainin
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 
