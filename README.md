@@ -74,7 +74,42 @@ I am interested in building practical software applications, working with data, 
 <a href="https://linkedin.com/in/tahsein-refath-m">
 <img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+📊 GitHub
+<div align="center">
 
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<img src="https://img.shields.io/badge/Explore%20My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+
+
+
+<img src="https://img.shields.io/badge/Always-Learning-7C3AED?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Always-Building-A855F7?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Always-Growing-6D28D9?style=for-the-badge"/>
+
+
+
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
+
+
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+📊 Contribution Graph
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&area=true&custom_title=Tahsein%20Refath%20M%20-%20Contribution%20Graph"/>
+
+</div>
 <a href="mailto:YOUR_EMAIL">
 <img src="https://img.shields.io/badge/Gmail-Send%20Me%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
