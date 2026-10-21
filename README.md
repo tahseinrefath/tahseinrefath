@@ -143,7 +143,6 @@ My goal is to start my professional career in a role where I can apply my knowle
 
 # 📊 Skill Graph
 
-```text
 Python             ████████████████████░░  90%
 SQL                ██████████████████░░░░  85%
 HTML / CSS         ██████████████████░░░░  85%
@@ -154,9 +153,8 @@ Data Analysis      ████████████████░░░░�
 JavaScript         ███████████████░░░░░░░  70%
 R Programming      ███████████████░░░░░░░  70%
 Generative AI      ███████████████░░░░░░░  70%
-```
 
----
+
 
 # 🚀 Featured Projects
 
@@ -317,7 +315,7 @@ Co-authored two research papers related to machine learning applications, gainin
 ║ 🧠  Agentic AI                                          ║
 ║ ✨  Prompt Engineering                                  ║
 ║ 🌐  Full-Stack Web Development                          ║
-║ 🚀  Real-World Projects                                 ║
+║ 🚀  Real-World Projects                                  ║
 ║                                                          ║
 ╚══════════════════════════════════════════════════════════╝
 ```
