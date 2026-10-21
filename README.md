@@ -1,10 +1,10 @@
 <div align="center">
 
-<!-- ═════════════════════════════════════════════════════════════ -->
-<!--                         HERO SECTION                         -->
-<!-- ═════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                         HERO SECTION                           -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:6D28D9,100:A855F7&height=270&section=header&text=TAHSEIN%20REFATH%20M&fontSize=55&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=COMPUTER%20SCIENCE%20%7C%20DATA%20SCIENCE%20%7C%20SOFTWARE%20DEVELOPER&descAlignY=60&descSize=17"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:312E81,70:7C3AED,100:C084FC&height=300&section=header&text=TAHSEIN%20REFATH%20M&fontSize=58&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=COMPUTER%20SCIENCE%20%7C%20DATA%20SCIENCE%20%7C%20SOFTWARE%20DEVELOPER&descAlignY=61&descSize=17"/>
 
 <br>
 
@@ -12,7 +12,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3500&pause=1000&color=CBD5E1&center=true&vCenter=true&width=750&lines=Learn+%E2%86%92+Build+%E2%86%92+Analyze+%E2%86%92+Improve;Turning+Ideas+Into+Real+Projects;Always+Learning+%7C+Always+Building" alt="Subtitle Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3500&pause=900&color=CBD5E1&center=true&vCenter=true&width=750&lines=Learn+%E2%86%92+Build+%E2%86%92+Analyze+%E2%86%92+Improve;Turning+Ideas+Into+Real+Projects;Always+Learning+%7C+Always+Building" alt="Subtitle Animation"/>
 
 <br><br>
 
@@ -31,12 +31,14 @@
 <br><br>
 
 <img src="https://img.shields.io/badge/B.Sc.-Computer%20Science%20%7C%20Data%20Science-6D28D9?style=for-the-badge"/>
+
 <img src="https://img.shields.io/badge/Focus-Software%20%7C%20Data%20%7C%20AI-A855F7?style=for-the-badge"/>
+
 <img src="https://img.shields.io/badge/Open%20To-Opportunities-7C3AED?style=for-the-badge"/>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=PROFILE%20VIEWS&color=7C3AED&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=PROFILE%20VIEWS&color=8B5CF6&style=for-the-badge"/>
 
 </div>
 
@@ -52,23 +54,23 @@
 
 💻 Interested in **Software Development**
 
-📊 Passionate about **Data Analytics**
+🐍 Passionate about **Python Development**
 
-🐍 Building applications using **Python & Flask**
+📊 Interested in **Data Analytics & Visualization**
 
-🌐 Interested in **Full-Stack Web Development**
+🌐 Building **Full-Stack Web Applications**
 
 🤖 Exploring **Artificial Intelligence & Generative AI**
 
 🧠 Improving **Problem Solving & Data Structures**
 
-🚀 Building practical applications that solve real-world problems
+🚀 Turning ideas into practical real-world projects
 
 <br clear="right"/>
 
 ```text
-╔══════════════════════════════════════════════════════╗
-║                                                      ║
-║       CODE → BUILD → ANALYZE → IMPROVE → GROW       ║
-║                                                      ║
-╚══════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════╗
+║                                                          ║
+║       CODE → BUILD → ANALYZE → IMPROVE → GROW           ║
+║                                                          ║
+╚══════════════════════════════════════════════════════════╝
