@@ -52,7 +52,6 @@ I am a **B.Sc. Computer Science graduate specialized in Data Science**, graduate
 
 I am interested in building practical software applications, working with data, developing web applications and exploring Artificial Intelligence.
 
-```text
 🎓 B.Sc. Computer Science — Data Science
 🏫 Nehru Arts and Science College, Coimbatore
 📅 Graduated in 2026
@@ -67,3 +66,21 @@ I am interested in building practical software applications, working with data, 
 🚀 Real-World Project Development
 
 💼 Available to Join Immediately
+
+🌐 Connect With Me 
+
+<div align="center">
+
+<a href="https://linkedin.com/in/tahsein-refath-m">
+<img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Gmail-Send%20Me%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-Follow%20My%20Journey-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
