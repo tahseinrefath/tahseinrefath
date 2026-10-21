@@ -1,565 +1,409 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=TAHSEIN%20REFATH%20M&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=SOFTWARE%20DEVELOPER%20%7C%20PYTHON%20DEVELOPER%20%7C%20DATA%20ANALYST&descAlignY=58&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:00C6FF&height=250&section=header&text=TAHSEIN%20REFATH%20M&fontSize=48&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=SOFTWARE%20DEVELOPER%20%7C%20PYTHON%20%7C%20DATA%20%7C%20AI&descAlignY=58&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=750&lines=Building+Real-World+Projects;Learning+New+Technologies;Exploring+Artificial+Intelligence;Working+With+Data+%26+Analytics;Building+Full-Stack+Applications;Turning+Ideas+Into+Real+Projects;Always+Learning+%7C+Always+Building" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=700&color=00C6FF&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub+%F0%9F%91%8B;B.Sc.+Computer+Science+%7C+Data+Science+%F0%9F%8E%93;Python+Developer+%F0%9F%90%8D;Data+Analyst+%F0%9F%93%8A;Full-Stack+Developer+%F0%9F%92%BB;Exploring+Generative+AI+%F0%9F%A4%96;Building+Real-World+Projects+%F0%9F%9A%80;Always+Learning+%7C+Always+Building+%F0%9F%94%A5"/>
 
-<br/><br/>
+<br><br>
 
-<img src="https://img.shields.io/badge/EDUCATION-B.Sc.%20Computer%20Science%20%7C%20Data%20Science-6D28D9?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/FOCUS-Software%20%7C%20Data%20%7C%20AI-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/BASED%20IN-India-4C1D95?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/STATUS-Open%20To%20Work-16A34A?style=for-the-badge"/>
-
-<br/><br/>
-
-<a href="https://linkedin.com/in/tahsein-refath-m">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=PROFILE%20VIEWS&color=00C6FF&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OPEN%20TO%20WORK-00C853?style=for-the-badge&logo=handshake&logoColor=white"/>
+<img src="https://img.shields.io/badge/IMMEDIATE%20JOINER-7F00FF?style=for-the-badge&logo=rocket&logoColor=white"/>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+<div align="center">
 
-> Hi, I'm **Tahsein Refath M**, a B.Sc. Computer Science graduate specialized in Data Science from **Nehru Arts and Science College, Coimbatore**, graduated in 2026.
->
-> I am interested in **Software Development, Python Development, Data Analytics, Web Development and Artificial Intelligence**.
->
-> I enjoy building practical projects, solving problems with technology and continuously learning new tools and technologies.
->
-> 🚀 **Available to Join Immediately**
+### ⚡ BUILD • LEARN • ANALYZE • INNOVATE
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
+
+</div>
 
 ---
 
-## 🎯 Career Objective
-
-My goal is to begin my professional career in a technology role where I can apply my knowledge of **Python, SQL, Flask, Data Analytics, Web Development and AI**, while continuously learning new technologies and contributing to real-world projects.
-
-### 💼 Target Roles
-
-`Software Developer` • `Python Developer` • `Data Analyst` • `Data Analytics` • `Frontend Developer` • `AI / Data Science`
-
----
-
-## 🎓 Education
-
-### 🏫 Nehru Arts and Science College, Coimbatore
-
-**B.Sc. Computer Science — Specialized in Data Science**
-
-| Details | Information |
-|---|---|
-| 🎓 Degree | B.Sc. Computer Science |
-| 📚 Specialization | Data Science |
-| 🏫 College | Nehru Arts and Science College |
-| 📍 Location | Coimbatore |
-| 📅 Completed | 2026 |
-
----
-
-## ⚡ Tech Stack
-
-### 💻 Programming Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,js,html,css"/>
-</p>
-
-`Python` `Java` `JavaScript` `HTML` `CSS` `R Programming`
-
-### 🌐 Frontend Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,html,css"/>
-</p>
-
-`HTML` `CSS` `JavaScript` `React.js`
-
-### ⚙️ Backend Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,flask"/>
-</p>
-
-`Python` `Flask` `REST APIs`
-
-### 🗄️ Database & ORM
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
-</p>
-
-`SQL` `MySQL` `MongoDB` `SQLAlchemy`
-
-### 📊 Data Science & Analytics
-
-`Pandas` `NumPy` `Matplotlib` `Scikit-learn` `R Programming`
-
-`Power BI` `MS Excel` `Tableau`
-
-`Data Analysis` `Data Cleaning` `Data Manipulation`
-
-`Data Visualization` `Exploratory Data Analysis` `Data Reporting`
-
-### 📗 MS Excel
-
-`Pivot Tables` `Charts` `VLOOKUP` `Data Analysis` `Data Reporting`
-
-### 🤖 Artificial Intelligence
-
-`Artificial Intelligence` `Machine Learning` `Generative AI` `Agentic AI` `Prompt Engineering`
-
-### 🛠️ Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
-</p>
-
-`Git` `GitHub` `VS Code` `MS Word` `MS Excel`
-
----
-
-## 🧠 Core Skills
-
-| Skill | Skill | Skill |
-|:---:|:---:|:---:|
-| Problem Solving | Logical Reasoning | Debugging |
-| Data Structures | Software Development | Data Analysis |
-| Data Manipulation | Data Visualization | Analytical Thinking |
-
----
-
-## 🚀 My Learning Journey
-
-```text
-🎓 Computer Science
-        ↓
-🐍 Programming
-        ↓
-🗄️ Python & SQL
-        ↓
-📊 Data Science
-        ↓
-🌐 Web Development
-        ↓
-📈 Data Analytics
-        ↓
-🤖 Machine Learning
-        ↓
-✨ Generative AI
-        ↓
-⚡ Agentic AI
-        ↓
-🚀 Real-World Projects
-        ↓
-💼 Professional Growth
-```
-
-### 🔍 Currently Exploring
-
-- 🐍 Advanced Python
-- 🗄️ Advanced SQL
-- 📊 Data Analytics
-- 📈 Power BI
-- 🌐 Full-Stack Development
-- ⚛️ React.js
-- 🤖 Machine Learning
-- ✨ Generative AI
-- ⚡ Agentic AI
-- 💬 Prompt Engineering
-
----
-
-## 🌟 Featured Projects
-
-### 🍽️ Project 01 — Nehru Canteen Management System
-
-A full-stack college canteen management application designed to simplify food ordering, reduce queues and improve order management.
-
-**Key Features:**
-
-- 🍔 Breakfast / Lunch / Snacks
-- 🛒 Food Ordering
-- 🎫 Token Generation
-- 💳 Payment Workflow
-- 📊 Order Status
-- 👨‍💼 Admin Dashboard
-- 🍳 Food Preparation
-- 🔔 Order Notifications
-- ⏱️ Queue Reduction
-- 📱 Takeaway System
-
-**Tech Stack:**
-
-`HTML` `CSS` `JavaScript` `Python` `Flask` `MySQL` `SQLAlchemy`
-
----
-
-### 🔎 Project 02 — Lost & Found Management System
-
-A digital platform designed to help users report lost and found items, search records and connect owners with found belongings.
-
-**Key Features:**
-
-- 📢 Report Lost Items
-- 📦 Report Found Items
-- 🔍 Search Items
-- 📝 Item Details
-- 👤 User Management
-- 📋 Organized Records
-- 🤝 Owner & Finder Connection
-
-**Tech Stack:**
-
-`HTML` `CSS` `JavaScript` `Python` `Flask` `MySQL`
-
----
-
-### 🤟 Project 03 — Sign Language Detection & Translation
-
-An AI and computer-vision project focused on recognizing sign language gestures and translating them into understandable text.
-
-**Focus Areas:**
-
-- 📷 Image / Video Input
-- 🤟 Hand Gesture Detection
-- 🧠 Machine Learning
-- 🔤 Sign Recognition
-- 📝 Text Translation
-- ♿ Accessibility Support
-
-**Tech Stack:**
-
-`Python` `Machine Learning` `Computer Vision`
-
----
-
-### 🛡️ Project 04 — AI-Powered Malicious IP Detection
-
-A cybersecurity project focused on identifying potentially malicious IP addresses, detecting suspicious activity and supporting automated security actions.
-
-**Focus Areas:**
-
-- 🔍 IP Analysis
-- 🛡️ Threat Detection
-- 🤖 AI / Machine Learning
-- 🚨 Suspicious Activity Detection
-- 🔒 Automated Blocking
-- 📊 Security Analysis
-
-**Tech Stack:**
-
-`Python` `Machine Learning` `Data Analysis` `Cybersecurity`
-
----
-
-### 🤖 Project 05 — Interactive Cybersecurity Chatbot Assistant
-
-An interactive AI-based cybersecurity chatbot designed to provide security-related information, awareness and guidance.
-
-**Focus Areas:**
-
-- 💬 Interactive Chatbot
-- 🛡️ Cybersecurity Assistance
-- 🤖 AI Integration
-- 🔐 Security Awareness
-- 📚 Security Guidance
-
-**Tech Stack:**
-
-`Python` `Artificial Intelligence` `Generative AI`
-
----
-
-### 📊 Project 06 — Data Analytics & Visualization
-
-A collection of data analytics projects focused on cleaning, manipulating, analyzing and visualizing datasets to generate meaningful insights.
-
-**Data Workflow:**
-
-```text
-📥 Data Collection
-      ↓
-🧹 Data Cleaning
-      ↓
-🔄 Data Manipulation
-      ↓
-🔍 Exploratory Data Analysis
-      ↓
-📊 Data Analysis
-      ↓
-📈 Data Visualization
-      ↓
-💡 Insight Generation
-      ↓
-📋 Reporting
-```
-
-**Tech Stack:**
-
-`Python` `Pandas` `NumPy` `Matplotlib` `R` `Power BI` `Excel` `Tableau`
-
----
-
-### 🩺 Project 07 — Bayesian Approach to Medical Diagnosis
-
-An academic project exploring the application of Bayesian Theory for medical diagnosis and probabilistic decision-making.
-
-**Focus:**
-
-`Bayesian Theory` `Probability` `Data Analysis` `Risk Assessment`
-
----
-
-### 📉 Project 08 — Risk Assessment & Decision Making Using Bayesian Theory
-
-An academic study focused on applying Bayesian reasoning to risk assessment and decision-making under uncertainty.
-
-**Focus:**
-
-`Bayesian Theory` `Risk Assessment` `Probability` `Decision Making`
-
----
-
-### 🏋️ Project 09 — Fitness App Hackathon Project
-
-A fitness-focused application concept developed as a hackathon project to help users manage fitness activities, goals and progress.
-
-**Focus:**
-
-`Fitness Tracking` `Activity Monitoring` `Fitness Goals` `Progress Tracking` `User Experience`
-
----
-
-## 💼 Work Experience
-
-### 🏢 Office Boy — Mustafawi Carpets
-
-**2024 – 2026**
-
-Developed professional discipline, responsibility, communication, teamwork and workplace adaptability.
-
----
-
-## 💼 Internship
-
-### 📊 R Programming Intern — NPRO Technologies
-
-**November 2024 – December 2024**
-
-- ✓ R Programming
-- ✓ Data Manipulation
-- ✓ Data Analysis
-- ✓ Data Visualization
-- ✓ Exploratory Data Analysis
-
----
-
-## 🏆 Achievements
-
-- 🥇 **1st Prize for an Academic Project**
-- 📄 **Co-authored Two Research Papers** related to Machine Learning applications
-- 💻 Built Full-Stack Web Applications
-- 📊 Worked on Data Analysis & Visualization Projects
-- 🚀 Developed Multiple Academic & Practical Projects
-
----
-
-## 📚 Research
-
-- 📑 Co-authored two research papers
-- 🤖 Research related to Machine Learning applications
-- 📊 Academic research and analysis
-
----
-
-## 🎯 Current Focus
-
-```yaml
-learning:
+# 👨‍💻 About Me
+
+<img align="right" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+
+name: Tahsein Refath M
+education: B.Sc. Computer Science
+specialization: Data Science
+graduation: 2026
+college: Nehru Arts and Science College, Coimbatore
+
+role: Entry-Level Computer Science Graduate
+status: Open To Work
+availability: Immediate Joiner
+
+interests:
+  - Software Development
+  - Python Development
+  - Data Analytics
+  - Data Analysis
+  - Frontend Development
+  - Artificial Intelligence
+  - Generative AI
+
+currently_learning:
   - Advanced Python
   - SQL
   - Data Analytics
   - Power BI
-  - Machine Learning
   - Generative AI
   - Agentic AI
   - Prompt Engineering
 
-building:
-  - Full-Stack Web Applications
-  - Data Analytics Projects
-  - AI-Based Applications
-  - Practical Software Projects
-
-improving:
-  - Problem Solving
-  - Data Structures
-  - Debugging
-  - Analytical Thinking
-
-career_goal:
-  - Software Developer
-  - Python Developer
-  - Data Analyst
-  - Frontend Developer
-
-availability:
-  - Available to Join Immediately
-```
-
----
-
-## 📈 Skills Overview
-
-| Area | Skills |
-|---|---|
-| 🐍 Programming | Python, Java, JavaScript, R |
-| 🌐 Frontend | HTML, CSS, JavaScript, React.js |
-| ⚙️ Backend | Python, Flask, REST APIs |
-| 🗄️ Database | SQL, MySQL, MongoDB, SQLAlchemy |
-| 📊 Data | Pandas, NumPy, Matplotlib, Scikit-learn |
-| 📈 Analytics | Power BI, Excel, Tableau |
-| 🤖 AI | AI, ML, Generative AI, Agentic AI |
-| 🛠️ Tools | Git, GitHub, VS Code |
-| 🧠 Core | Problem Solving, Debugging, Data Structures |
-
----
-
-## 💡 What I Like To Build
-
-- 🌐 Web Applications
-- 🐍 Python Applications
-- 📊 Data Analytics Solutions
-- 📈 Data Visualization Dashboards
-- 🗄️ Database Applications
-- 🤖 AI-Based Applications
-- 🛡️ Cybersecurity Solutions
-- 📱 Practical Student Solutions
-
----
-
-## 🔥 What I Am Improving
-
-- 🐍 Advanced Python
-- 🗄️ Advanced SQL
-- 📊 Data Analytics
-- 📈 Power BI
-- 🌐 Full-Stack Development
-- ⚛️ React.js
-- 🤖 Machine Learning
-- ✨ Generative AI
-- ⚡ Agentic AI
-- 🧠 Problem Solving
-- 📐 Data Structures
-- 🔧 Debugging
-
----
-
-## 📊 GitHub
-
+goal: "Build useful real-world technology"
+I am an entry-level Computer Science graduate specialized in Data Science, passionate about software development, data analytics and modern AI technologies.
+I enjoy turning ideas into practical applications using Python, Flask, SQL, Power BI, Excel, R and AI technologies.
+🎯 Career Goal: Software Developer | Python Developer | Data Analyst | Data Analytics | AI/Data Roles
+🧠 Developer Journey
+              🎓 2026 GRADUATE
+                     │
+                     ▼
+              💻 DEVELOPMENT
+        Python • Flask • Web Development
+                     │
+                     ▼
+                 📊 DATA
+        SQL • Power BI • Excel • R
+                     │
+                     ▼
+                  🤖 AI
+      Generative AI • Agentic AI
+                     │
+                     ▼
+                 🚀 FUTURE
+        Build • Learn • Improve • Grow
+🛠️ Tech Stack
 <div align="center">
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-<img src="https://img.shields.io/badge/Explore%20My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+👨‍💻 Programming
+<img src="https://skillicons.dev/icons?i=python,r,javascript"/>
 
-<br/><br/>
+🌐 Frontend
+<img src="https://skillicons.dev/icons?i=html,css,javascript"/>
 
-<img src="https://img.shields.io/badge/Always-Learning-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Always-Building-A855F7?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Always-Growing-6D28D9?style=for-the-badge"/>
+⚙️ Backend
+<img src="https://skillicons.dev/icons?i=python,flask"/>
 
-<br/><br/>
+🗄️ Database
+<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"/>
+🔧 Tools
+<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
 
-<br/><br/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&area=true&custom_title=Tahsein%20Refath%20M%20-%20Contribution%20Graph"/>
+
+
+
+<img src="https://img.shields.io/badge/Generative%20AI-7F00FF?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Agentic%20AI-0072FF?style=for-the-badge&logo=robotframework&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prompt%20Engineering-00C6FF?style=for-the-badge&logo=openai&logoColor=white"/>
 
 </div>
 
----
+📊 Skill Graph
+Python             ████████████████████░░  90%
+SQL                ██████████████████░░░░  85%
+HTML / CSS         ██████████████████░░░░  85%
+MS Excel           █████████████████░░░░░  80%
+Flask              ████████████████░░░░░░  75%
+Power BI           ████████████████░░░░░░  75%
+Data Analysis      ████████████████░░░░░░  75%
+JavaScript         ███████████████░░░░░░░  70%
+R Programming      ███████████████░░░░░░░  70%
+Generative AI      ███████████████░░░░░░░  70%
+🚀 Featured Projects
+🍽️ 01 — Nehru Canteen Management System
+Full-stack college canteen web application designed to simplify food ordering and reduce queues.
 
-## 🎮 Interests & Hobbies
+Features
+- 🍔 Breakfast, Lunch and Snacks
+- 🛒 Add to Cart
+- 🎟️ Token Generation
+- 💳 Ordering / Payment Workflow
+- 👨‍🍳 Food Preparation Status
+- 📊 Admin Dashboard
+- 🔔 Order Notifications
+- ⚡ Queue Reduction
+- 📱 PWA-Friendly Experience
+Technologies: HTML CSS JavaScript Python Flask MySQL SQLAlchemy
+🔎 02 — Lost & Found Management System
+Digital platform for reporting, searching and managing lost and found items.
 
+Technologies: HTML CSS JavaScript Python Flask MySQL
+🤟 03 — Sign Language Detection & Translation
+AI-based computer vision project that detects sign gestures and translates them into text.
+
+Technologies: Python Machine Learning Computer Vision
+🛡️ 04 — AI-Powered Malicious IP Detection
+Cybersecurity project focused on identifying suspicious and malicious IP addresses.
+
+Technologies: Python Machine Learning Data Analysis Cybersecurity
+🤖 05 — Interactive Cybersecurity Chatbot Assistant
+AI-powered conversational assistant for cybersecurity guidance and awareness.
+
+Technologies: Python AI Generative AI
+📊 06 — Data Analytics & Visualization Projects
+Projects involving data collection, cleaning, manipulation, analysis and visualization.
+
+Technologies: Python Pandas NumPy Matplotlib R Power BI Excel Tableau
+🧮 07 — Bayesian Approach to Medical Diagnosis
+Academic project applying Bayesian Theory to probabilistic medical diagnosis and decision making.
+
+📈 08 — Risk Assessment Using Bayesian Theory
+Academic study applying Bayesian reasoning to risk assessment and decision making under uncertainty.
+
+🏋️ 09 — Fitness App Hackathon Project
+Fitness-focused application concept for activity tracking, goals and progress monitoring.
+
+🎬 Coding Mode
 <div align="center">
 
-⚽ **Football**  
-📸 **Photography**  
-🎬 **Photo / Video Editing**  
-💻 **Technology**  
-🤖 **Artificial Intelligence**  
-📊 **Data & Analytics**  
-🚀 **Building Projects**
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/hacker.gif" width="600"/>
+
+💻 CODE → 🧪 TEST → 🐛 DEBUG → 🚀 BUILD
+</div>
+
+💼 Experience
+🏢 Office Boy — Mustafawi Carpets
+2024 – 2026
+- Supported daily office operations.
+- Assisted with routine administrative activities.
+- Developed communication, responsibility and teamwork skills.
+👨‍💻 Internship
+💻 R Programming Intern — NPRO Technologies
+November 2024 – December 2024
+- Worked with R programming and scripting.
+- Performed data manipulation and analysis.
+- Created data visualizations and improved problem-solving skills.
+🏆 Achievements
+<div align="center">
+
+<img src="https://img.shields.io/badge/🏆%201st%20Prize-Academic%20Project-gold?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/📚%202%20Research%20Papers-Machine%20Learning-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/🎓%202026-B.Sc.%20Computer%20Science-purple?style=for-the-badge"/>
 
 </div>
 
----
-
-## 🤝 Open To Opportunities
-
+📚 Research
+🔬 Machine Learning Applications
+Co-authored two research papers related to machine learning applications, gaining exposure to research methodology, technical documentation and practical AI concepts.
+🎯 Current Focus
 <div align="center">
 
-### 💼 Currently Open To Entry-Level Opportunities
+╔══════════════════════════════════════════════════════════╗
+║                    CURRENT FOCUS                         ║
+╠══════════════════════════════════════════════════════════╣
+║                                                          ║
+║ 🐍  Advanced Python Development                          ║
+║ 📊  Data Analytics & Visualization                       ║
+║ 🗄️  SQL & Database Development                           ║
+║ 📈  Power BI & Excel Analytics                           ║
+║ 🤖  Generative AI                                       ║
+║ 🧠  Agentic AI                                          ║
+║ ✨  Prompt Engineering                                  ║
+║ 🌐  Full-Stack Web Development                          ║
+║ 🚀  Real-World Projects                                 ║
+║                                                          ║
+╚══════════════════════════════════════════════════════════╝
+</div>
 
-**Software Development** • **Python Development** • **Data Analytics**
+📈 GitHub Analytics
+<div align="center">
 
-**Data Analyst** • **Frontend Development** • **AI / Data Science**
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&include_all_commits=true&count_private=true" height="190"/>
 
-<br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&border_radius=15" height="190"/>
 
-### 🚀 Available to Join Immediately
+
+
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&langs_count=10" width="420"/>
 
 </div>
 
----
+📊 Contribution Activity
+<div align="center">
 
-## 🌐 Connect With Me
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0D1117&color=00C6FF&line=0072FF&point=7F00FF&area=true&hide_border=true" width="100%"/>
 
+</div>
+
+🏆 GitHub Trophy
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=2&column=6" width="100%"/>
+
+</div>
+
+🧊 GitHub Profile Summary
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_GITHUB_USERNAME&theme=tokyonight" width="100%"/>
+
+
+
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
+
+</div>
+
+🔥 Developer Mindset
+                         💡 IDEA
+                           │
+                           ▼
+                      🔍 RESEARCH
+                           │
+                           ▼
+                        🧠 PLAN
+                           │
+                           ▼
+                        💻 CODE
+                           │
+                           ▼
+                        🧪 TEST
+                           │
+                           ▼
+                       🐛 DEBUG
+                           │
+                           ▼
+                       🚀 BUILD
+                           │
+                           ▼
+                      📊 ANALYZE
+                           │
+                           ▼
+                      📈 IMPROVE
+                           │
+                           ▼
+                         🔥
+                       REPEAT
+🌟 What I Like To Build
+<div align="center">
+
+💻 SOFTWARE	📊 DATA	🤖 AI
+Web Applications	Data Analysis	Generative AI
+Python Applications	Power BI	Agentic AI
+Flask Applications	Excel Analytics	AI Assistants
+REST APIs	Data Visualization	ML Applications
+
+
+</div>
+
+🧩 Core Skills
+<div align="center">
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+</div>
+
+🎓 Education
+<div align="center">
+
+🎓 B.Sc. Computer Science — Data Science
+Nehru Arts and Science College, Coimbatore
+Graduated — 2026
+</div>
+
+🌱 Learning Timeline
+2024 ──────────────► 2025 ──────────────► 2026 ──────────────► NEXT
+  │                    │                    │                    │
+  ├─ R Programming     ├─ Python            ├─ B.Sc. Graduate    ├─ Software
+  ├─ Data Analysis     ├─ Flask             ├─ Data Analytics    ├─ Data
+  └─ Internship        ├─ MySQL             ├─ Generative AI     └─ AI
+                       └─ Full Stack         └─ Open To Work
+🎮 Beyond Coding
+<div align="center">
+
+⚽ Football    
+📸 Photography    
+🎬 Editing
+💻 Technology    
+🤖 Artificial Intelligence    
+📊 Data Analytics
+</div>
+
+💼 Open To Opportunities
+<div align="center">
+
+<img src="https://img.shields.io/badge/Software%20Developer-0072FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Python%20Developer-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Data%20Analyst-00C6FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data%20Analytics-7F00FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Frontend%20Developer-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
+
+
+
+📍 Bengaluru / Coimbatore
+🏠 Hybrid / Remote
+⚡ Available To Join Immediately
+</div>
+
+🤝 Connect With Me
 <div align="center">
 
 <a href="https://linkedin.com/in/tahsein-refath-m">
-<img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Gmail-Send%20Me%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Tahsein%20Refath%20M-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/YOUR_GITHUB_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-Follow%20My%20Journey-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-My%20Projects-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
 
----
+⚡ Quick Facts
+<div align="center">
+
+<img src="https://img.shields.io/badge/🎓%20Graduate-2026-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🐍%20Python-Developer-3776AB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/📊%20Data-Analytics-00C6FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🤖%20AI-Learner-7F00FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🚀%20Open-To-Work-00C853?style=for-the-badge"/>
+
+</div>
 
 <div align="center">
 
-### 🚀 Keep Building. Keep Learning. Keep Growing.
+💙 THANKS FOR VISITING MY PROFILE
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=800&color=00C6FF&center=true&vCenter=true&width=750&lines=Thanks+for+visiting+my+profile!;Let's+build+something+amazing+together!;Keep+Learning+%F0%9F%93%9A;Keep+Building+%F0%9F%92%BB;Keep+Growing+%F0%9F%9A%80"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Code+%7C+Learn+%7C+Build+%7C+Grow;One+Project+At+A+Time+🚀;Keep+Learning+✨;Turning+Ideas+Into+Real+Projects" alt="Footer Animation"/>
 
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:0072FF,100:00C6FF&height=150&section=footer&animation=twinkling" width="100%"/>
 
 </div>
+```
