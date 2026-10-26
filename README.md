@@ -32,41 +32,43 @@
 
 ---
 
+---
+
 ## About Me
 
 <table>
 <tr>
 <td width="65%" valign="top">
 
-### Hello, I'm Tahsein Refath M
+### 👋 Hello, I'm Tahsein Refath M
 
-I am a **Computer Science graduate specialized in Data Science**, passionate about software development, data analytics, web technologies, and artificial intelligence.
+💻 I am a **Computer Science graduate specialized in Data Science**, passionate about software development, data analytics, web technologies, and artificial intelligence.
 
-I enjoy learning new technologies, solving technical problems, and building practical applications that address real-world challenges.
+🚀 I enjoy learning new technologies, solving technical problems, and building practical applications that address real-world challenges.
 
-- **Education:** B.Sc. Computer Science — Data Science
-- **College:** Nehru Arts and Science College, Coimbatore
-- **Graduation:** 2026
-- **Primary language:** Python
-- **Backend development:** Flask
-- **Database:** MySQL and SQL
-- **Data tools:** Power BI and Microsoft Excel
-- **AI interests:** Generative AI, Agentic AI, and Prompt Engineering
-- **Career interests:** Software Development, Python Development, Data Analytics, and Frontend Development
-- **Availability:** Available to join immediately
-- **Preferred locations:** Bengaluru and Coimbatore
-- **Work preference:** Open to suitable onsite, hybrid, and remote opportunities
+- 🎓 **Education:** B.Sc. Computer Science — Data Science
+- 🏫 **College:** Nehru Arts and Science College, Coimbatore
+- 📅 **Graduation:** 2026
+- 🐍 **Primary Language:** Python
+- ⚙️ **Backend Development:** Flask
+- 🗄️ **Database:** MySQL and SQL
+- 📊 **Data Tools:** Power BI and Microsoft Excel
+- 🤖 **AI Interests:** Generative AI, Agentic AI, and Prompt Engineering
+- 💡 **Career Interests:** Software Development, Python Development, Data Analytics, and Frontend Development
+- 💼 **Availability:** Available to join immediately
+- 📍 **Preferred Locations:** Bengaluru and Coimbatore
+- 🌐 **Work Preference:** Open to suitable onsite, hybrid, and remote opportunities
 
 </td>
 <td width="35%" align="center" valign="middle">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Developer working on a computer"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Developer coding animation"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Code-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/Data-Analytics-00A6ED?style=flat-square" alt="Data analytics"/>
-<img src="https://img.shields.io/badge/AI-Learning-7F00FF?style=flat-square" alt="AI learning"/>
+<img src="https://img.shields.io/badge/💻%20Code-Python-3776AB?style=flat-square" alt="Python"/>
+<img src="https://img.shields.io/badge/📊%20Data-Analytics-00A6ED?style=flat-square" alt="Data Analytics"/>
+<img src="https://img.shields.io/badge/🤖%20AI-Learning-7F00FF?style=flat-square" alt="AI Learning"/>
 
 </td>
 </tr>
@@ -597,9 +599,7 @@ I have co-authored two research papers related to Machine Learning applications.
 
 <div align="center">
 
-<a href="https://github.com/tahseinrefath">
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=tahseinrefath&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph"/>
-</a>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tahseinrefath&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub Contribution Activity"/>
 
 </div>
 
@@ -609,9 +609,7 @@ I have co-authored two research papers related to Machine Learning applications.
 
 <div align="center">
 
-<a href="https://github.com/tahseinrefath">
-<img width="98%" src="https://github-profile-trophy.vercel.app/?username=tahseinrefath&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" alt="GitHub profile trophies"/>
-</a>
+<img src="https://github-profile-trophy.vercel.app/?username=tahseinrefath&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" width="100%" alt="GitHub Profile Trophies"/>
 
 </div>
 
