@@ -229,9 +229,9 @@ Order Delivered
 
 ---
 
-# 🔎 02 — Lost & Found Management System
+# 🔎 02 — Digital Lost & Found System
 
-A **web-based Lost & Found Management System** designed to help students and users report lost items, register found items and search for matching records.
+A **web-based Digital Lost & Found System** designed to help students and users report lost items, register found items and search for matching records.
 
 ### 🎯 Project Objective
 
