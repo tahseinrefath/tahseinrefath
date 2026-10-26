@@ -595,11 +595,25 @@ I have co-authored two research papers related to Machine Learning applications.
 
 ---
 
+---
+
 ## Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tahseinrefath&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub Contribution Activity"/>
+[![GitHub Profile](https://img.shields.io/badge/GitHub-View%20My%20Contributions-181717?style=for-the-badge&logo=github)](https://github.com/tahseinrefath)
+
+<br>
+
+<a href="https://github.com/tahseinrefath?tab=overview">
+<strong>Explore My GitHub Contributions</strong>
+</a>
+
+<br><br>
+
+<a href="https://github.com/tahseinrefath?tab=repositories">
+<img src="https://img.shields.io/badge/Explore-My%20Repositories-0072FF?style=for-the-badge&logo=github" alt="Explore repositories"/>
+</a>
 
 </div>
 
@@ -609,9 +623,21 @@ I have co-authored two research papers related to Machine Learning applications.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=tahseinrefath&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" width="100%" alt="GitHub Profile Trophies"/>
+<a href="https://github.com/tahseinrefath">
+<img src="https://img.shields.io/badge/GitHub-Developer-181717?style=for-the-badge&logo=github" alt="GitHub developer"/>
+</a>
+
+<a href="https://github.com/tahseinrefath?tab=repositories">
+<img src="https://img.shields.io/badge/Projects-View%20Repositories-00C853?style=for-the-badge&logo=github" alt="View projects"/>
+</a>
+
+<a href="https://linkedin.com/in/tahsein-refath-m">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="Connect on LinkedIn"/>
+</a>
 
 </div>
+
+---
 
 ---
 
