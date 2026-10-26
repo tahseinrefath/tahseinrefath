@@ -1,14 +1,32 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:00C6FF&height=250&section=header&text=TAHSEIN%20REFATH%20M&fontSize=48&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=SOFTWARE%20DEVELOPER%20%7C%20PYTHON%20%7C%20DATA%20%7C%20AI&descAlignY=58&descSize=18" width="100%" alt="Profile banner"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=700&color=00C6FF&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub;B.Sc.+Computer+Science+%7C+Data+Science;Python+Developer;Data+Analyst;Full-Stack+Developer;Exploring+Generative+AI;Always+Learning+%7C+Always+Building" width="100%" alt="Typing introduction"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:090979,45:302B63,100:00D4FF&text=TAHSEIN%20REFATH%20M&fontSize=48&fontColor=FFFFFF&fontAlignY=35&animation=fadeIn&desc=SOFTWARE%20DEVELOPMENT%20%7C%20DATA%20ANALYTICS%20%7C%20AI&descSize=17&descAlignY=55" width="100%" alt="Tahsein Refath M GitHub banner"/>
 
 <br>
 
-<img src="https://img.shields.io/badge/OPEN%20TO%20WORK-00C853?style=for-the-badge&logo=handshake&logoColor=white" alt="Open to work"/>
-<img src="https://img.shields.io/badge/IMMEDIATE%20JOINER-7F00FF?style=for-the-badge&logo=rocket&logoColor=white" alt="Immediate joiner"/>
-<img src="https://img.shields.io/badge/B.Sc.%20DATA%20SCIENCE-0072FF?style=for-the-badge" alt="BSc Data Science"/>
+<a href="https://github.com/tahseinrefath">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&duration=2500&pause=700&color=00D4FF&center=true&vCenter=true&width=800&lines=Hello%2C+I'm+Tahsein+Refath+M;B.Sc.+Computer+Science+%7C+Data+Science;Python+%26+Full-Stack+Developer;Data+Analytics+%26+Visualization;Exploring+Generative+AI+%26+Agentic+AI;Turning+Ideas+Into+Practical+Projects" alt="Typing introduction"/>
+</a>
+
+<br><br>
+
+<a href="https://github.com/tahseinrefath?tab=followers">
+<img src="https://img.shields.io/github/followers/tahseinrefath?style=for-the-badge&logo=github&label=Followers&color=181717" alt="GitHub followers"/>
+</a>
+<a href="https://github.com/tahseinrefath?tab=repositories">
+<img src="https://img.shields.io/badge/Repositories-Explore-2962FF?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/>
+</a>
+<img src="https://img.shields.io/badge/Status-Open%20to%20Work-00C853?style=for-the-badge&logo=handshake&logoColor=white" alt="Open to work"/>
+<img src="https://img.shields.io/badge/Availability-Immediate-7F00FF?style=for-the-badge&logo=rocket&logoColor=white" alt="Available immediately"/>
+
+<br><br>
+
+<a href="https://tahseinrefath.github.io/Tahsein-Portfolio-IDCard_Final_1/">
+<img src="https://img.shields.io/badge/Explore%20My%20Portfolio-00D4FF?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Explore portfolio"/>
+</a>
+<a href="https://linkedin.com/in/tahsein-refath-m">
+<img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
 
 </div>
 
@@ -16,212 +34,433 @@
 
 ## About Me
 
-<div>
-  <h3>Hello, I'm Tahsein Refath M</h3>
-  <h3>B.Sc. Computer Science specialized in Data Science</h3>
-  <h3>Nehru Arts and Science College, Coimbatore</h3>
-  <h3>Graduated in 2026</h3>
-  <h3>Interested in Software Development and Python Development</h3>
-  <h3>Interested in Data Analytics and Data Visualization</h3>
-  <h3>Building Full-Stack Web Applications</h3>
-  <h3>Working with SQL and MySQL</h3>
-  <h3>Exploring Generative AI and Agentic AI</h3>
-  <h3>Improving Problem Solving, Debugging, and Data Structures</h3>
-  <h3>Building practical projects that solve real-world problems</h3>
-  <h3>Available to join immediately</h3>
-</div>
+<table>
+<tr>
+<td width="65%" valign="top">
+
+### Hello, I'm Tahsein Refath M
+
+I am a **Computer Science graduate specialized in Data Science**, passionate about software development, data analytics, web technologies, and artificial intelligence.
+
+I enjoy learning new technologies, solving technical problems, and building practical applications that address real-world challenges.
+
+- **Education:** B.Sc. Computer Science — Data Science
+- **College:** Nehru Arts and Science College, Coimbatore
+- **Graduation:** 2026
+- **Primary language:** Python
+- **Backend development:** Flask
+- **Database:** MySQL and SQL
+- **Data tools:** Power BI and Microsoft Excel
+- **AI interests:** Generative AI, Agentic AI, and Prompt Engineering
+- **Career interests:** Software Development, Python Development, Data Analytics, and Frontend Development
+- **Availability:** Available to join immediately
+- **Preferred locations:** Bengaluru and Coimbatore
+- **Work preference:** Open to suitable onsite, hybrid, and remote opportunities
+
+</td>
+<td width="35%" align="center" valign="middle">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Developer working on a computer"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Code-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/Data-Analytics-00A6ED?style=flat-square" alt="Data analytics"/>
+<img src="https://img.shields.io/badge/AI-Learning-7F00FF?style=flat-square" alt="AI learning"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
-## Career Goal
+## My Career Objective
 
-I am an entry-level Computer Science graduate specialized in Data Science, interested in building practical software applications and data-driven solutions. I am looking for opportunities as a Software Developer, Python Developer, Data Analyst, or Frontend Developer.
+To begin my professional career in software development or data analytics, apply my technical knowledge to real-world projects, and continuously improve my programming, analytical, and problem-solving abilities.
 
----
-
-## Developer Journey
-
-```text
-2026 GRADUATE
-     |
-     v
-DEVELOPMENT: Python - Flask - Web
-     |
-     v
-DATA: SQL - Power BI - Excel
-     |
-     v
-AI: Generative AI - Agentic AI
-     |
-     v
-BUILD - LEARN - IMPROVE
-```
+I am interested in opportunities where I can contribute to a team, learn from experienced professionals, and develop reliable, useful, and well-organized software solutions.
 
 ---
 
-## Languages and Technologies
+## Technical Skills
 
 <div align="center">
 
 ### Programming Languages
 
-<img src="https://skillicons.dev/icons?i=python,r,javascript" alt="Python, R, JavaScript"/>
-
-### Web Development
-
-<img src="https://skillicons.dev/icons?i=html,css,flask" alt="HTML, CSS, Flask"/>
-
-### Databases
-
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" alt="MySQL, MongoDB"/>
-
-### Development Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git, GitHub, VS Code"/>
+<img src="https://skillicons.dev/icons?i=python,r,javascript&perline=6" alt="Python, R and JavaScript"/>
 
 <br>
 
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
-<img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib"/>
-<img src="https://img.shields.io/badge/Generative%20AI-7F00FF?style=for-the-badge" alt="Generative AI"/>
-<img src="https://img.shields.io/badge/Agentic%20AI-0072FF?style=for-the-badge" alt="Agentic AI"/>
-<img src="https://img.shields.io/badge/Prompt%20Engineering-00C6FF?style=for-the-badge" alt="Prompt Engineering"/>
+<img src="https://img.shields.io/badge/Python-Advanced%20Practice-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/R%20Programming-Data%20Analysis-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R programming"/>
+<img src="https://img.shields.io/badge/JavaScript-Web%20Development-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+
+### Frontend Development
+
+<img src="https://skillicons.dev/icons?i=html,css&perline=6" alt="HTML and CSS"/>
+
+<img src="https://img.shields.io/badge/HTML5-Web%20Structure-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+<img src="https://img.shields.io/badge/CSS3-Responsive%20Styling-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+
+### Backend Development
+
+<img src="https://skillicons.dev/icons?i=python,flask&perline=6" alt="Python and Flask"/>
+
+<img src="https://img.shields.io/badge/Flask-Python%20Backend-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+<img src="https://img.shields.io/badge/REST%20APIs-API%20Integration-009688?style=for-the-badge" alt="REST APIs"/>
+
+### Databases
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb&perline=6" alt="MySQL and MongoDB"/>
+
+<img src="https://img.shields.io/badge/SQL-Queries%20%26%20Data-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
+<img src="https://img.shields.io/badge/MySQL-Database%20Management-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+
+### Data Analytics and Visualization
+
+<img src="https://img.shields.io/badge/Microsoft%20Excel-Pivot%20Tables%20%7C%20Charts%20%7C%20VLOOKUP-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel"/>
+<img src="https://img.shields.io/badge/Power%20BI-Reports%20%26%20Dashboards-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+<img src="https://img.shields.io/badge/Pandas-Data%20Manipulation-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+<img src="https://img.shields.io/badge/NumPy-Numerical%20Computing-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+<img src="https://img.shields.io/badge/Matplotlib-Data%20Visualization-11557C?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib"/>
+<img src="https://img.shields.io/badge/Tableau-Data%20Visualization-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
+
+### Artificial Intelligence
+
+<img src="https://img.shields.io/badge/Generative%20AI-Exploring-7F00FF?style=for-the-badge" alt="Generative AI"/>
+<img src="https://img.shields.io/badge/Agentic%20AI-Exploring-0072FF?style=for-the-badge" alt="Agentic AI"/>
+<img src="https://img.shields.io/badge/Prompt%20Engineering-Learning-00A6ED?style=for-the-badge" alt="Prompt Engineering"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-Project%20Experience-FF6F00?style=for-the-badge" alt="Machine Learning"/>
+
+### Developer Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode&perline=6" alt="Git, GitHub and VS Code"/>
 
 </div>
+
+---
+
+## Skills Overview
+
+| Category | Skills |
+|---|---|
+| Programming | Python, R, JavaScript |
+| Frontend | HTML, CSS, JavaScript |
+| Backend | Python, Flask |
+| Databases | SQL, MySQL, MongoDB |
+| Data Analysis | Data Cleaning, Data Manipulation, Exploratory Data Analysis |
+| Data Visualization | Power BI, Excel Charts, Matplotlib, Tableau |
+| Excel | Pivot Tables, Charts, VLOOKUP |
+| Artificial Intelligence | Generative AI, Agentic AI, Prompt Engineering |
+| APIs | REST APIs |
+| Development Tools | Git, GitHub, VS Code |
+| Core Skills | Problem Solving, Logical Reasoning, Debugging, Data Structures |
+| Software Development | Application Development, Testing, Troubleshooting |
 
 ---
 
 ## Featured Projects
 
-### 01 — Nehru Canteen Management System
-
-A full-stack college canteen application created as a final-year project to make food ordering faster and more organized. Students can browse the menu, add items to the cart, place orders, receive a token, and collect food from the counter.
-
-**Key Features**
-- Breakfast, Lunch, and Snacks categories with food images
-- Cart and order placement workflow
-- Token generation for order identification
-- Order status and food preparation updates
-- Admin dashboard for food and order management
-- Preparation-time information and order notifications
-- Takeaway-based ordering designed to reduce queues
-
-**Student Module**
-- Registration and login
-- Browse menu and view food details
-- Add items to cart and place orders
-- Track order and token status
-
-**Admin Module**
-- Admin login and dashboard
-- Add and manage food items
-- View incoming orders
-- Update food preparation and order status
-- Manage tokens and completed orders
-
-**Technologies**
-
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,javascript,python,flask,mysql" alt="HTML, CSS, JavaScript, Python, Flask, MySQL"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge" alt="SQLAlchemy"/>
-<img src="https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge" alt="Progressive Web App"/>
+<img src="https://img.shields.io/badge/FEATURED-2%20MAIN%20PROJECTS-00D4FF?style=for-the-badge" alt="Featured projects"/>
 
 </div>
 
-- **Frontend:** HTML, CSS, JavaScript
-- **Backend:** Python, Flask
-- **Database:** MySQL
-- **ORM:** SQLAlchemy
-- **Tools:** VS Code, Git, GitHub
+### 01. Nehru Canteen Management System
 
-**System Flow**
+<img align="right" src="https://img.shields.io/badge/Python-Flask-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python Flask"/>
+<img align="right" src="https://img.shields.io/badge/Database-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
+
+**Project Type:** Full-Stack Web Application  
+**Duration:** November 2025 – February 2026
+
+#### Project Overview
+
+Nehru Canteen is a web-based college canteen management system designed to simplify food ordering and reduce queues at the college canteen.
+
+The system allows students to browse available food, select items, place orders, and receive a token for collection. The canteen administrator can manage food items, view orders, and update preparation status.
+
+The application is designed for takeaway orders rather than delivery.
+
+#### Main Objectives
+
+- Reduce waiting time at the college canteen.
+- Organize food ordering through a digital platform.
+- Provide a clear order token and status.
+- Help canteen staff manage orders efficiently.
+- Improve communication between students and the canteen counter.
+
+#### Student Features
+
+- Student registration and login.
+- Browse food items with images and details.
+- View Breakfast, Lunch, and Snacks categories.
+- Add food items to the cart.
+- Place food orders.
+- Receive an order token.
+- Track order preparation and status.
+- Collect prepared food using the order token.
+
+#### Admin Features
+
+- Secure admin login.
+- Admin dashboard.
+- Add, edit, and manage food items.
+- Organize food by category.
+- View incoming orders.
+- Review order information.
+- Update food preparation status.
+- Mark orders as ready or completed.
+- Manage the order and token workflow.
+
+#### Technologies Used
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,javascript,python,flask,mysql&perline=6" alt="Technologies used in Nehru Canteen"/>
+
+</div>
+
+| Component | Technology |
+|---|---|
+| Frontend | HTML, CSS, JavaScript |
+| Backend | Python, Flask |
+| Database | MySQL |
+| Database Integration | SQLAlchemy |
+| Development Environment | Visual Studio Code |
+| Version Control | Git and GitHub |
+
+#### System Workflow
 
 ```text
-Student Login
-     |
-Browse Menu
-     |
-Select Food and Add to Cart
-     |
+STUDENT
+   |
+   v
+Register / Login
+   |
+   v
+Browse Food Categories
+   |
+   v
+Select Food Items
+   |
+   v
+Add to Cart
+   |
+   v
 Place Order
-     |
-Payment Workflow
-     |
-Token Generated
-     |
-Admin Receives Order
-     |
-Food Preparation
-     |
-Order Marked Ready
-     |
-Student Shows Token and Collects Food
+   |
+   v
+Order Token Generated
+   |
+   v
+ADMIN RECEIVES ORDER
+   |
+   v
+Prepare Food
+   |
+   v
+Update Order Status
+   |
+   v
+Student Checks Order Status
+   |
+   v
+Show Token and Collect Food
 ```
+
+#### Expected Benefits
+
+- Faster and more organized ordering.
+- Reduced crowding around the billing counter.
+- Clearer order identification through tokens.
+- Better visibility into food preparation status.
+- Easier food and order management for administrators.
+
+#### Future Enhancements
+
+- Online payment gateway integration.
+- QR-code-based token verification.
+- Real-time order notifications.
+- Improved mobile-first Progressive Web App support.
+- Order history and sales reports.
+- Food availability and stock management.
+- Analytics dashboard for canteen administrators.
 
 ---
 
-### 02 — Lost and Found Management System
+### 02. Lost and Found Management System
 
-A web-based platform that helps users report lost items, register found items, and search existing reports. It provides a central place to store item details and helps identify possible matches between lost and found records.
+<img align="right" src="https://img.shields.io/badge/Python-Flask-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python Flask"/>
+<img align="right" src="https://img.shields.io/badge/Database-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
 
-**Key Features**
-- Report lost items with descriptions
-- Register found items
-- Search and browse reports
-- Organize reports by item category
-- Record relevant date and location information
-- View item details and submitted reports
-- Identify possible matches between lost and found items
-- Support recovery through owner verification
+**Project Type:** Full-Stack Web Application
 
-**User Module**
-- User registration and login
-- Submit lost-item and found-item reports
-- Search and view item records
-- Check possible matches
-- Review submitted reports
+#### Project Overview
 
-**Technologies**
+The Lost and Found Management System is a web-based application designed to help people report lost items, register found items, and search submitted reports.
+
+Instead of depending entirely on verbal communication or physical notice boards, users can enter item information into a central system. Other users can search the available records to identify possible matches and help return items to their owners.
+
+#### Main Objectives
+
+- Create a central platform for lost and found reports.
+- Make item information easier to search.
+- Organize lost and found records.
+- Help users identify possible item matches.
+- Support a more structured item recovery process.
+
+#### User Features
+
+- User registration and login.
+- Submit a lost-item report.
+- Submit a found-item report.
+- Enter an item name and description.
+- Add relevant date and location information.
+- Browse and search reported items.
+- Review matching information.
+- Contact the relevant person through an appropriate process.
+- Verify ownership before an item is returned.
+
+#### Technologies Used
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,javascript,python,flask,mysql" alt="HTML, CSS, JavaScript, Python, Flask, MySQL"/>
+<img src="https://skillicons.dev/icons?i=html,css,javascript,python,flask,mysql&perline=6" alt="Technologies used in Lost and Found Management System"/>
 
 </div>
 
-- **Frontend:** HTML, CSS, JavaScript
-- **Backend:** Python, Flask
-- **Database:** MySQL
-- **Tools:** VS Code, Git, GitHub
+| Component | Technology |
+|---|---|
+| Frontend | HTML, CSS, JavaScript |
+| Backend | Python, Flask |
+| Database | MySQL |
+| Development Environment | Visual Studio Code |
+| Version Control | Git and GitHub |
 
-**System Flow**
+#### System Workflow
 
 ```text
-User Login
-     |
-Choose Lost or Found
-     |
-Enter Item Details
-     |
+USER
+  |
+  v
+Register / Login
+  |
+  v
+Choose Lost Item or Found Item
+  |
+  v
+Enter Item Information
+  |
+  v
 Submit Report
-     |
-Save to Database
-     |
-Search Records
-     |
-Review Possible Match
-     |
-Verify Ownership
-     |
-Recover Item
+  |
+  v
+Store Report in Database
+  |
+  v
+Search Existing Records
+  |
+  v
+Identify Possible Match
+  |
+  v
+Verify Item Ownership
+  |
+  v
+Return Item to Its Owner
 ```
+
+#### Expected Benefits
+
+- Centralized record management.
+- Easier searching of item reports.
+- Better organization of lost and found information.
+- Reduced reliance on manual record keeping.
+- Improved communication during item recovery.
+
+#### Future Enhancements
+
+- Upload item photographs.
+- Add image-based item matching.
+- Send email notifications about possible matches.
+- Add category-based and location-based filters.
+- Provide an administrator dashboard.
+- Add report verification and status tracking.
+- Improve the mobile user experience.
+
+---
+
+## Project Development Approach
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+<strong>01</strong>
+
+<br>
+
+Requirements
+
+</td>
+<td align="center" width="25%">
+
+<strong>02</strong>
+
+<br>
+
+Planning
+
+</td>
+<td align="center" width="25%">
+
+<strong>03</strong>
+
+<br>
+
+Development
+
+</td>
+<td align="center" width="25%">
+
+<strong>04</strong>
+
+<br>
+
+Testing
+
+</td>
+</tr>
+<tr>
+<td align="center" width="25%">
+
+Understand the problem
+
+</td>
+<td align="center" width="25%">
+
+Design the solution
+
+</td>
+<td align="center" width="25%">
+
+Build the application
+
+</td>
+<td align="center" width="25%">
+
+Debug and improve
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
@@ -229,86 +468,150 @@ Recover Item
 
 <div align="center">
 
-| Skill | Level | Progress |
+| Technical Skill | Self-Assessed Level | Progress |
 |---|---:|---|
-| Python | 90% | ██████████████████░░ |
-| SQL | 85% | █████████████████░░░ |
-| HTML and CSS | 85% | █████████████████░░░ |
-| MS Excel | 80% | ████████████████░░░░ |
-| Flask | 75% | ███████████████░░░░░ |
-| Power BI | 75% | ███████████████░░░░░ |
-| Data Analysis | 75% | ███████████████░░░░░ |
-| JavaScript | 70% | ██████████████░░░░░░ |
-| R Programming | 70% | ██████████████░░░░░░ |
-| Generative AI | 70% | ██████████████░░░░░░ |
+| Python | 90% | `█████████░` |
+| SQL | 85% | `████████▌░` |
+| HTML and CSS | 85% | `████████▌░` |
+| MS Excel | 80% | `████████░░` |
+| Flask | 75% | `███████▌░░` |
+| Power BI | 75% | `███████▌░░` |
+| Data Analysis | 75% | `███████▌░░` |
+| JavaScript | 70% | `███████░░░` |
+| R Programming | 70% | `███████░░░` |
+| Generative AI | 70% | `███████░░░` |
 
 </div>
 
+*Skill percentages are indicative self-assessments, not formal test results.*
+
 ---
 
-## Experience
+## Professional Experience
 
 ### Office Boy — Mustafawi Carpets
 
-**2024–2026**
+**2024 – 2026**
 
-- Supported daily office operations.
-- Assisted with routine administrative activities.
-- Developed communication, responsibility, and teamwork skills.
+- Supported routine office operations and day-to-day activities.
+- Assisted with general administrative and workplace tasks.
+- Helped maintain an organized working environment.
+- Developed communication, reliability, time management, and teamwork skills.
+
+This experience helped me understand workplace responsibilities, professional communication, and the importance of completing tasks consistently.
 
 ---
 
-## Internship
+## Internship Experience
 
 ### R Programming Intern — NPRO Technologies
 
-**November 2024–December 2024**
+**November 2024 – December 2024**
 
-- Worked with R programming and scripting.
-- Practiced data manipulation and analysis.
-- Created data visualizations and developed problem-solving skills.
+- Practiced programming using R.
+- Worked on data manipulation and analysis exercises.
+- Explored data visualization techniques.
+- Developed logical thinking and analytical problem-solving skills.
+- Gained exposure to applying programming concepts to data-related tasks.
 
 ---
 
-## Achievements
+## Achievements and Recognition
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/1st%20Prize-Academic%20Project-gold?style=for-the-badge" alt="First prize"/>
-<img src="https://img.shields.io/badge/2-Research%20Papers-0072FF?style=for-the-badge" alt="Two research papers"/>
-<img src="https://img.shields.io/badge/Graduated-2026-7F00FF?style=for-the-badge" alt="Graduated in 2026"/>
+<img src="https://img.shields.io/badge/1st%20Prize-Academic%20Project-FFD700?style=for-the-badge&logo=award&logoColor=black" alt="First prize academic project"/>
+
+<img src="https://img.shields.io/badge/Research-2%20Co--Authored%20Papers-0072FF?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Two research papers"/>
+
+<img src="https://img.shields.io/badge/Education-B.Sc.%20Graduate-7F00FF?style=for-the-badge" alt="BSc graduate"/>
 
 </div>
 
-- Won first prize for an academic project.
+- Received first prize for an academic project.
 - Co-authored two research papers related to Machine Learning applications.
 - Completed a B.Sc. in Computer Science specialized in Data Science in 2026.
 
 ---
 
-## Research
+## Research Interests
 
-### Machine Learning Applications
+My research interests include applying machine learning and data-driven techniques to practical problems.
 
-Co-authored two research papers related to machine learning applications, gaining exposure to research methodology, technical documentation, and practical AI concepts.
+Areas of interest include:
+
+- Machine Learning applications.
+- Data analysis and interpretation.
+- Data visualization.
+- AI-assisted problem solving.
+- Technology-based decision support.
+
+I have co-authored two research papers related to Machine Learning applications.
 
 ---
 
-## Current Focus
+## Current Learning Focus
 
 <div align="center">
 
-| Focus Area | Status |
+| Area | Current Goal |
 |---|---|
-| Python Development | Learning and improving |
-| Data Analytics and Visualization | Practicing |
-| SQL and Database Development | Improving |
-| Power BI and Excel Analytics | Building |
-| Generative AI | Exploring |
-| Agentic AI | Exploring |
-| Prompt Engineering | Learning |
-| Full-Stack Web Development | Building |
-| Real-World Projects | Active |
+| Python Development | Improve programming and application development |
+| Flask | Build structured backend applications |
+| SQL and MySQL | Improve database design and query writing |
+| Data Analytics | Practice data cleaning, analysis, and interpretation |
+| Power BI | Improve reporting and dashboard development |
+| Microsoft Excel | Practice Pivot Tables, charts, and VLOOKUP |
+| Generative AI | Understand practical AI applications |
+| Agentic AI | Explore AI agents and their workflows |
+| Prompt Engineering | Improve instructions and AI-assisted workflows |
+| Full-Stack Development | Build complete frontend and backend applications |
+| Problem Solving | Strengthen debugging and logical reasoning |
+
+</div>
+
+---
+
+## GitHub Analytics
+
+<div align="center">
+
+<a href="https://github.com/tahseinrefath">
+<img height="180" width="49%" src="https://github-readme-stats.vercel.app/api?username=tahseinrefath&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub statistics"/>
+</a>
+<a href="https://github.com/tahseinrefath">
+<img height="180" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahseinrefath&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used GitHub languages"/>
+</a>
+
+<br><br>
+
+<a href="https://github.com/tahseinrefath">
+<img width="90%" src="https://streak-stats.demolab.com?user=tahseinrefath&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+</a>
+
+</div>
+
+---
+
+## Contribution Activity
+
+<div align="center">
+
+<a href="https://github.com/tahseinrefath">
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=tahseinrefath&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph"/>
+</a>
+
+</div>
+
+---
+
+## GitHub Achievements
+
+<div align="center">
+
+<a href="https://github.com/tahseinrefath">
+<img width="98%" src="https://github-profile-trophy.vercel.app/?username=tahseinrefath&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" alt="GitHub profile trophies"/>
+</a>
 
 </div>
 
@@ -316,26 +619,35 @@ Co-authored two research papers related to machine learning applications, gainin
 
 ## Developer Mindset
 
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2500&pause=800&color=00D4FF&center=true&vCenter=true&width=800&lines=Think+Clearly;Write+Clean+Code;Solve+Real+Problems;Learn+New+Technologies;Build+Useful+Projects;Improve+Every+Day" width="100%" alt="Developer mindset"/>
+
+</div>
+
 ```text
-IDEA
-  |
-RESEARCH
-  |
-PLAN
-  |
-CODE
-  |
-TEST
-  |
-DEBUG
-  |
-BUILD
-  |
-ANALYZE
-  |
-IMPROVE
-  |
-REPEAT
+             IDENTIFY THE PROBLEM
+                      |
+                      v
+                UNDERSTAND IT
+                      |
+                      v
+                 PLAN A SOLUTION
+                      |
+                      v
+                  WRITE CODE
+                      |
+                      v
+                 TEST AND DEBUG
+                      |
+                      v
+                ANALYZE RESULTS
+                      |
+                      v
+                IMPROVE THE CODE
+                      |
+                      v
+                  KEEP LEARNING
 ```
 
 ---
@@ -344,12 +656,13 @@ REPEAT
 
 <div align="center">
 
-| Software | Data | AI |
+| Software Development | Data Analytics | Artificial Intelligence |
 |---|---|---|
-| Web Applications | Data Analysis | Generative AI |
-| Python Applications | Power BI Reports | AI Assistants |
-| Flask Applications | Excel Analytics | Agentic AI |
-| REST APIs | Data Visualization | ML Applications |
+| Web Applications | Data Analysis | Generative AI Projects |
+| Python Applications | Interactive Reports | AI Assistants |
+| Flask Applications | Excel Dashboards | Agentic AI Workflows |
+| Database-Driven Systems | Data Visualization | Machine Learning Applications |
+| Practical Digital Solutions | Data-Driven Insights | AI-Based Tools |
 
 </div>
 
@@ -359,9 +672,15 @@ REPEAT
 
 <div align="center">
 
-**B.Sc. Computer Science — Data Science**
+<img src="https://img.shields.io/badge/Degree-B.Sc.-0072FF?style=for-the-badge" alt="Degree"/>
+<img src="https://img.shields.io/badge/Specialization-Data%20Science-7F00FF?style=for-the-badge" alt="Specialization"/>
+<img src="https://img.shields.io/badge/Graduation-2026-00C853?style=for-the-badge" alt="Graduation year"/>
 
-Nehru Arts and Science College, Coimbatore
+<br><br>
+
+### Nehru Arts and Science College, Coimbatore
+
+**B.Sc. Computer Science specialized in Data Science**
 
 Graduated in 2026
 
@@ -371,14 +690,18 @@ Graduated in 2026
 
 ## Learning Timeline
 
-```text
-2024                 2025                 2026                 Next
-  |                    |                    |                    |
-R Programming        Python               B.Sc. Graduate       Software Development
-Data Analysis        Flask                Data Analytics       Data Projects
-Internship           MySQL                Generative AI        AI Learning
-                     Full Stack           Open to Work
-```
+<div align="center">
+
+| Period | Experience and Development |
+|---|---|
+| 2024 | R Programming internship and data-related learning |
+| 2025 | Continued programming practice and full-stack project development |
+| 2025–2026 | Nehru Canteen Management System development |
+| 2026 | Completed B.Sc. in Computer Science specialized in Data Science |
+| Current | Seeking entry-level opportunities and improving development and analytics skills |
+| Next Goal | Contribute to professional projects and gain industry experience |
+
+</div>
 
 ---
 
@@ -386,28 +709,31 @@ Internship           MySQL                Generative AI        AI Learning
 
 <div align="center">
 
-Football &nbsp; | &nbsp; Photography &nbsp; | &nbsp; Photo and Video Editing
-
-Technology &nbsp; | &nbsp; Artificial Intelligence &nbsp; | &nbsp; Data Analytics
+<img src="https://img.shields.io/badge/Interest-Football-00C853?style=for-the-badge" alt="Football"/>
+<img src="https://img.shields.io/badge/Interest-Photography-7F00FF?style=for-the-badge" alt="Photography"/>
+<img src="https://img.shields.io/badge/Interest-Photo%20%26%20Video%20Editing-0072FF?style=for-the-badge" alt="Photo and video editing"/>
+<img src="https://img.shields.io/badge/Interest-Technology-00A6ED?style=for-the-badge" alt="Technology"/>
 
 </div>
 
+I enjoy exploring technology, learning new tools, following software development trends, and improving my creative and technical abilities.
+
 ---
 
-## Open to Opportunities
+## Career Opportunities
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Software%20Developer-0072FF?style=for-the-badge" alt="Software Developer"/>
+<img src="https://img.shields.io/badge/Software%20Developer-0072FF?style=for-the-badge&logo=code&logoColor=white" alt="Software Developer"/>
 <img src="https://img.shields.io/badge/Python%20Developer-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Developer"/>
-<img src="https://img.shields.io/badge/Data%20Analyst-00C6FF?style=for-the-badge" alt="Data Analyst"/>
+<img src="https://img.shields.io/badge/Data%20Analyst-00A6ED?style=for-the-badge" alt="Data Analyst"/>
 <img src="https://img.shields.io/badge/Frontend%20Developer-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Frontend Developer"/>
 
 <br><br>
 
-**Preferred Locations:** Bengaluru / Coimbatore
+**Preferred Locations:** Bengaluru and Coimbatore
 
-**Work Preference:** Hybrid / Remote
+**Work Preferences:** Onsite, Hybrid, or Remote opportunities
 
 **Availability:** Immediate
 
@@ -419,17 +745,44 @@ Technology &nbsp; | &nbsp; Artificial Intelligence &nbsp; | &nbsp; Data Analytic
 
 <div align="center">
 
-<a href="https://linkedin.com/in/tahsein-refath-m">
-<img src="https://img.shields.io/badge/LinkedIn-Tahsein%20Refath%20M-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<a href="https://github.com/tahseinrefath">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/>
 </a>
 
-<a href="https://github.com/tahseinrefath">
-<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<a href="https://linkedin.com/in/tahsein-refath-m">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile"/>
 </a>
 
 <a href="https://tahseinrefath.github.io/Tahsein-Portfolio-IDCard_Final_1/">
-<img src="https://img.shields.io/badge/Portfolio-Visit-00C6FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+<img src="https://img.shields.io/badge/Portfolio-00C6FF?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfolio website"/>
 </a>
+
+</div>
+
+---
+
+## Quick Profile Summary
+
+<div align="center">
+
+| Profile Detail | Information |
+|---|---|
+| Name | Tahsein Refath M |
+| Qualification | B.Sc. Computer Science — Data Science |
+| Graduation Year | 2026 |
+| College | Nehru Arts and Science College, Coimbatore |
+| Internship | R Programming Intern — NPRO Technologies |
+| Work Experience | Office Boy — Mustafawi Carpets |
+| Academic Achievement | First prize for an academic project |
+| Research | Co-authored two Machine Learning-related research papers |
+| Main Project | Nehru Canteen Management System |
+| Second Project | Lost and Found Management System |
+| Main Programming Language | Python |
+| Backend Framework | Flask |
+| Database | MySQL |
+| Analytics Tools | Power BI and Microsoft Excel |
+| Career Interests | Software Development and Data Analytics |
+| Availability | Immediate |
 
 </div>
 
@@ -437,10 +790,18 @@ Technology &nbsp; | &nbsp; Artificial Intelligence &nbsp; | &nbsp; Data Analytic
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=800&color=00C6FF&center=true&vCenter=true&width=750&lines=Thanks+for+visiting+my+profile!;Let's+build+something+amazing+together!;Keep+Learning;Keep+Building;Keep+Growing" width="100%" alt="Closing message"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=900&color=00D4FF&center=true&vCenter=true&width=850&lines=Thanks+for+visiting+my+GitHub+profile!;Explore+my+projects;Connect+and+collaborate;Keep+Learning+%7C+Keep+Building;Turning+Ideas+Into+Solutions" width="100%" alt="Closing message"/>
 
-**Learn. Build. Improve. Repeat.**
+<br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:0072FF,100:00C6FF&height=150&section=footer&animation=twinkling" width="100%" alt="Footer banner"/>
+**LEARN. BUILD. ANALYZE. IMPROVE. REPEAT.**
+
+<br>
+
+<a href="https://github.com/tahseinrefath">
+<img src="https://img.shields.io/badge/Follow%20My%20Journey-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow my GitHub journey"/>
+</a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:00D4FF,50:302B63,100:090979&section=footer" width="100%" alt="Footer banner"/>
 
 </div>
