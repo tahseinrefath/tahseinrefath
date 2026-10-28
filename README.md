@@ -175,10 +175,10 @@ I am interested in opportunities where I can contribute to a team, learn from ex
 
 <img align="right" src="https://img.shields.io/badge/Python-Flask-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python Flask"/>
 <img align="right" src="https://img.shields.io/badge/Database-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
+</div>
 
 **Project Type:** Full-Stack Web Application  
 **Duration:** November 2025 – February 2026
-</div>
 
 #### Project Overview
 
