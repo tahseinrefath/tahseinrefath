@@ -229,7 +229,6 @@ The application is designed for takeaway orders rather than delivery.
 
 <img src="https://skillicons.dev/icons?i=html,css,javascript,python,flask,mysql&perline=6" alt="Technologies used in Nehru Canteen"/>
 
-</div>
 
 | Component | Technology |
 |---|---|
@@ -239,6 +238,8 @@ The application is designed for takeaway orders rather than delivery.
 | Database Integration | SQLAlchemy |
 | Development Environment | Visual Studio Code |
 | Version Control | Git and GitHub |
+
+</div>
 
 #### System Workflow
 
@@ -341,7 +342,6 @@ Instead of depending entirely on verbal communication or physical notice boards,
 
 <img src="https://skillicons.dev/icons?i=html,css,javascript,python,flask,mysql&perline=6" alt="Technologies used in Lost and Found Management System"/>
 
-</div>
 
 | Component | Technology |
 |---|---|
@@ -350,6 +350,8 @@ Instead of depending entirely on verbal communication or physical notice boards,
 | Database | MySQL |
 | Development Environment | Visual Studio Code |
 | Version Control | Git and GitHub |
+
+</div>
 
 #### System Workflow
 
