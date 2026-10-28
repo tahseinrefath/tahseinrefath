@@ -169,14 +169,16 @@ I am interested in opportunities where I can contribute to a team, learn from ex
 <img src="https://img.shields.io/badge/FEATURED-2%20MAIN%20PROJECTS-00D4FF?style=for-the-badge" alt="Featured projects"/>
 
 </div>
+<div align="center">
 
-### 01. Nehru Canteen Management System
+### 🍔01. Nehru Canteen Management System
 
 <img align="right" src="https://img.shields.io/badge/Python-Flask-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python Flask"/>
 <img align="right" src="https://img.shields.io/badge/Database-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
 
 **Project Type:** Full-Stack Web Application  
 **Duration:** November 2025 – February 2026
+</div>
 
 #### Project Overview
 
@@ -292,13 +294,16 @@ Show Token and Collect Food
 - Analytics dashboard for canteen administrators.
 
 ---
-
-### 02. Lost and Found Management System
+<div align="center">
+   
+### 👀02. Lost and Found Management System
 
 <img align="right" src="https://img.shields.io/badge/Python-Flask-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python Flask"/>
 <img align="right" src="https://img.shields.io/badge/Database-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
 
 **Project Type:** Full-Stack Web Application
+
+</div>
 
 #### Project Overview
 
