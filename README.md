@@ -490,6 +490,7 @@ Supported formats include:
 **Limitations:** Scanned image-only PDFs are not supported. Power BI extraction depends on the data stored in the file; DirectQuery and live-connection reports may not contain extractable data.
 
 ---
+<div align="center">
 
 ## 🛠️ Tech Stack
 
@@ -509,6 +510,8 @@ Supported formats include:
 | pytest | Automated testing |
 | PostgreSQL | Optional metadata integration |
 | Anthropic API | Optional AI-powered explanations |
+
+</div>
 
 ---
 
