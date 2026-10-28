@@ -395,6 +395,112 @@ Return Item to Its Owner
 
 ---
 
+<div align="center">
+
+### 🕵️3. AI Business Detective
+### AI-Powered Business Performance Analysis System
+
+**Turning Business Data into Actionable Insights**
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Machine Learning"/>
+</p>
+
+[Features](#-features) • [Tech Stack](#-tech-stack) • [Installation](#-installation) • [How It Works](#-how-it-works) • [Author](#-author)
+
+</div>
+
+---
+
+## 📌 About the Project
+
+**AI Business Detective** is a Python-based business analytics web application designed to help users understand sales performance, investigate profit changes, identify important business contributors, and detect unusual patterns in their data.
+
+Users can upload sales datasets, clean and analyze their data, explore interactive dashboards, investigate month-over-month performance, and generate business reports.
+
+The application also provides rule-based explanations, with an optional AI-powered explanation layer.
+
+## ✨ Features
+
+### 🧹 Data Cleaning
+- Detect duplicate records and invalid dates.
+- Handle missing values and inconsistent text.
+- Clean currency symbols and messy data.
+- Report data-cleaning operations.
+
+### 📊 Interactive Dashboard
+- Display key business performance indicators.
+- Analyze daily and monthly sales trends.
+- Explore product, region, and category performance.
+- Filter data by region, category, product, and date range.
+- Visualize business trends using interactive charts.
+- Explore heatmaps, discount analysis, and trend projections.
+
+### 🔍 Business Investigation
+- Compare performance between two selected months.
+- Investigate changes in sales or profit.
+- Identify contributing products, regions, and categories.
+- Explore product and regional combinations.
+- Export contributor analysis as a CSV file.
+
+### 🚨 Anomaly Detection
+- Identify unusual observations in business data.
+- Use robust z-score analysis.
+- Apply the `IsolationForest` algorithm from scikit-learn.
+
+### 🤖 Business Question Assistant
+- Ask questions about business performance.
+- Generate explanations using a rule-based system.
+- Optionally integrate the Anthropic API for enhanced explanations.
+
+### 📄 Report Generation
+- Generate self-contained HTML reports.
+- Review business performance findings.
+- Print reports or save them as PDF through the browser.
+
+### 📁 Multiple File Formats
+Supported formats include:
+
+- CSV
+- TSV
+- TXT
+- Excel (`.xlsx`, `.xlsm`, `.xls`)
+- OpenDocument Spreadsheet (`.ods`)
+- JSON
+- PDF files containing readable text tables
+- Power BI (`.pbix`) with best-effort data extraction
+
+**Upload limit:** 50 MB.
+
+**Limitations:** Scanned image-only PDFs are not supported. Power BI extraction depends on the data stored in the file; DirectQuery and live-connection reports may not contain extractable data.
+
+---
+
+## 🛠️ Tech Stack
+
+| Technology | Purpose |
+|---|---|
+| Python | Main programming language |
+| Flask | Web application framework |
+| Pandas | Data processing and analysis |
+| NumPy | Numerical calculations |
+| Plotly | Interactive visualizations |
+| scikit-learn | Anomaly detection |
+| openpyxl | Excel file processing |
+| xlrd | Excel file support |
+| odfpy | OpenDocument spreadsheet support |
+| pdfplumber | PDF table extraction |
+| pbixray | Best-effort Power BI data extraction |
+| pytest | Automated testing |
+| PostgreSQL | Optional metadata integration |
+| Anthropic API | Optional AI-powered explanations |
+
+---
+
 ## Project Development Approach
 
 <div align="center">
