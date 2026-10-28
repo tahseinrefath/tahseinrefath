@@ -767,10 +767,8 @@ I have co-authored two research papers related to Machine Learning applications.
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2500&pause=800&color=00D4FF&center=true&vCenter=true&width=800&lines=Think+Clearly;Write+Clean+Code;Solve+Real+Problems;Learn+New+Technologies;Build+Useful+Projects;Improve+Every+Day" width="100%" alt="Developer mindset"/>
 
-</div>
 
 ```text
-<div align="center">
 
              IDENTIFY THE PROBLEM
                       |
@@ -794,9 +792,9 @@ I have co-authored two research papers related to Machine Learning applications.
                       |
                       v
                   KEEP LEARNING
-</div>
 
 ```
+</div>
 
 ---
 
