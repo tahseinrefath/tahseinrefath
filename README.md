@@ -143,6 +143,8 @@ I am interested in opportunities where I can contribute to a team, learn from ex
 
 ---
 
+<div align="center">
+
 ## Skills Overview
 
 | Category | Skills |
@@ -159,6 +161,8 @@ I am interested in opportunities where I can contribute to a team, learn from ex
 | Development Tools | Git, GitHub, VS Code |
 | Core Skills | Problem Solving, Logical Reasoning, Debugging, Data Structures |
 | Software Development | Application Development, Testing, Troubleshooting |
+
+</div>
 
 ---
 
